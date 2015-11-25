@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-바보능균123123123123123
+담배피러가자
 </body>
 </html>
