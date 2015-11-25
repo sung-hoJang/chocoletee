@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-이능균 이능균
+바보능균
 </body>
 </html>
