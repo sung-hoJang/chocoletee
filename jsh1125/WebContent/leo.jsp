@@ -7,15 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
-크리스 리
-혜이
-스톤 코
-루키 킴
-아프리카 장
-=======
-Git test 2 
-바보능균 능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능
->>>>>>> branch 'master' of https://github.com/sung-hoJang/chocoletee.git
+
 </body>
 </html>
