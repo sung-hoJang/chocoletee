@@ -7,8 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-Git test 2 
-내가 수정했다!!!! 크크크크크
-<h3>이능균,고대워닝 바보</h3>
+크리스 리
+혜이
+스톤 코
+루키 킴
+아프리카 장
 </body>
 </html>
