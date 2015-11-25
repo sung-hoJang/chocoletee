@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Git test 1
+Git test 2
 </body>
 </html>
