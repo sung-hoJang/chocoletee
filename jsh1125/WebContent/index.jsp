@@ -8,6 +8,6 @@
 </head>
 <body>
 Git test 2 
-이능균 이능균
+바보능균
 </body>
 </html>
