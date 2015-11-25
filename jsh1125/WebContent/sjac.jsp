@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-이능균 바보
+이능균 바보 아님
+김인회 바보
 </body>
 </html>
