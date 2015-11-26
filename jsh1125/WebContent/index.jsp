@@ -6,7 +6,20 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 </head>
+
 <body>
 고장낼꺼야~!~!~!~!~!
+
+<body>
+크리스 리
+혜이
+스톤 코
+루키 킴
+아프리카 장
+Git test 2 
+천재능균 능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능
+천재능균 능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능
+천재능균 능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능
+
 </body>
 </html>

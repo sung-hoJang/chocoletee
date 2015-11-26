@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-레오 바보
+오레오 쿠키가 참 맛있다
 </body>
 </html>
