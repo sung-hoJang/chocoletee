@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Git test 2 
-바보능균 능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능능
+고장낼꺼야~!~!~!~!~!
 </body>
 </html>
